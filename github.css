@@ -1,0 +1,12 @@
+body{
+  background-color: aqua;  
+  margin:0 ;
+}
+
+.page__title{
+    font-size: 80px;
+    text-transform:uppercase;
+    color: rgb(37, 26, 37);
+    text-align: center;
+    margin:0;
+}
